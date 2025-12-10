@@ -18,7 +18,7 @@ function showDetails() {
         "stroustrup": "images/stroustrup.jpg",
         "juergen": "images/juergen.jpg",
         "krishna": "images/krishna.jpg",
-
+        "pavan": "images/pavan.jpg",
         "bill_gates": "images/bill_gates.jpg",
         "steve_jobs": "images/steve_jobs.jpg",
         "elon_musk": "images/elon_musk.jpg",
@@ -34,6 +34,7 @@ function showDetails() {
     // Mapping details
     let details = {
         "guido": "Guido van Rossum created Python in 1991.",
+        "pavan": "He is from CSE(AIML) with roll number 23951A66F7.",
         "dennis": "Dennis Ritchie developed C and co-created UNIX.",
         "james": "James Gosling invented Java in 1995.",
         "stroustrup": "Bjarne Stroustrup created C++.",
