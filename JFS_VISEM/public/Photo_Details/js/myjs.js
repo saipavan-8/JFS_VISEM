@@ -28,7 +28,9 @@ function showDetails() {
         "Sundar_Pichai": "images/Sundar_Pichai.jpg",
         "satyanadella": "images/satyanadella.jpg",                
         "AdaLovelace": "images/AdaLovelace.jpg",
+		"pavan": "images/pavan.jpg",
         "madhu": "images/madhu.jpg"
+		
     };
 
     // Mapping details
@@ -43,6 +45,7 @@ function showDetails() {
         "bill_gates": "Bill Gates co-founded Microsoft.",
         "steve_jobs": "Steve Jobs co-founded Apple.",
         "elon_musk": "Elon Musk leads Tesla & SpaceX.",
+        "pavan": "He is from CSE(AIML) with roll number 23951A66F7.",
         "zukerberg": "Mark Zuckerberg founded Facebook.",
         "linus_torvalds": "Linus Torvalds created Linux.",
         "tim_berner": "Tim Berners-Lee invented the World Wide Web.",
